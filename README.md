@@ -35,3 +35,6 @@ Clicks performed to a specific type of element considering the HTML tags that ty
 ## Results
 When the test finishes running, an HTML report and a video of the execution in a browser will be generated in the results folder.
 
+## Note:
+Please update with the corresponding user (https://github.com/jeysonvr/Pruebas_Ghost/blob/main/cypress/integration/monkey/smart-monkey.js#L526) and password (https://github.com/jeysonvr/Pruebas_Ghost/blob/main/cypress/integration/monkey/smart-monkey.js#L556) in order to ease to the monkey login and try events as a logged user.
+
